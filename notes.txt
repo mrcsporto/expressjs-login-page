@@ -1,0 +1,5 @@
+Stat New EJS Template
+https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application
+
+Add POST
+https://www.digitalocean.com/community/tutorials/use-expressjs-to-get-url-and-post-parameters
